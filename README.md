@@ -1,3 +1,4 @@
-# izzy-cli
+# mac-shard
 
-A description of this package.
+Generates a stable number from 1-100 based on the device's UDID.
+
